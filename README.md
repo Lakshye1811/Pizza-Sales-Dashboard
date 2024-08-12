@@ -12,5 +12,6 @@ o	Dashboard Creation: Developed interactive dashboards with tools like Tableau o
 
 o	Outcome: Provided actionable insights that led to a 15% increase in sales through optimized marketing campaigns and improved operational efficiency.
 
-![Screenshot 2024-08-13 010627](https://github.com/user-attachments/assets/c41fe872-a1de-41f2-9a96-afb1693b57ed)
+![Screenshot 2024-08-13 010744](https://github.com/user-attachments/assets/f4dca9d7-473b-4c2d-ab40-354f85625051)
+
 
